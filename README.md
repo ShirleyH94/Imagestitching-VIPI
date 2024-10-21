@@ -1,4 +1,4 @@
-# An Infrared Data Supported Unsupervised Deep Learning Image Stitching Model
+# An Unsupervised Deep Learning Image Stitching Algorithm with Fusing Infrared Images
 ### Xueying He, Ming Zhu, Mengxue Lin, Chengkun Li
 
 ## VIPI Dataset
