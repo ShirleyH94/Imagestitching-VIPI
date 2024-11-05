@@ -1,4 +1,4 @@
-# An Unsupervised Deep Learning Image Stitching Algorithm with Fusing Infrared Images
+# An Unsupervised Deep Learning Image Stitching Algorithm Fusing Infrared Images
 ### Xueying He, Ming Zhu, Chengkun Li, Mengxue Lin
 
 ## VIPI Dataset
