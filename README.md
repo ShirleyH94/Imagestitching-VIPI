@@ -2,5 +2,5 @@
 ### Xueying He, Ming Zhu, Chengkun Li, Mengxue Lin
 
 ## VIPI Dataset
-The dataset is included in this repository.
+The dataset will be included in this repository.
 
